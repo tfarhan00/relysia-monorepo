@@ -1,0 +1,6 @@
+{
+  "extends": ["../../.eslintrc.base.json"],
+  "rules": {
+    // Database package specific rules can be added here
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "extends": ["../../.eslintrc.base.json"],
+  "rules": {
+    // API Client specific rules can be added here
+  }
+}
